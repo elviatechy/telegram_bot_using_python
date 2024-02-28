@@ -1,9 +1,9 @@
 from telegram import *
 from telegram.ext import *
 
-bot = Bot("Paste your Telegram bot token here")
+bot = Bot("7196164913:AAGuFDBVI-GJ8k3bAJSMpr-jkKLOQ-Z6S1s")
 #print(bot.get_me())
-updater = Updater("Paste your Telegram bot token here", use_context=True)
+updater = Updater("7196164913:AAGuFDBVI-GJ8k3bAJSMpr-jkKLOQ-Z6S1s", use_context=True)
 
 dispatcher= updater.dispatcher
 
